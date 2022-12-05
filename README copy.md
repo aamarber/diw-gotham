@@ -1,8 +1,8 @@
 #README / LEEME
 
-*Práctica*
+*Práctica:* 13
 
-*Unidad:* UD05. Framework Styles
+*Unidad:* UD05. Bootstrap
 
 *Módulo:* Diseño de Interfaces WEB
 
@@ -13,10 +13,6 @@
 ##Author / Autor
 
 Alfredo Oltra (mail: [alfredo.ptcf@gmail.com](alfredo.ptcf@gmail.com) / twitter: [@aoltra](https://twitter.com/aoltra))
-
-##Adapted by / Adaptado por
-
-Aarón Martín Bermejo (mail: a.martinbermejo@gva.edu.es)
 
 Basado en la plantilla [Band](http://www.w3schools.com/bootstrap/bootstrap_theme_band.asp) de [w3schools.com](http://www.w3schools.com)
 
