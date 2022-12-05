@@ -19,6 +19,8 @@ Vars
 :root{
     --main-color: #faa;
     --secondary-color: #4E5C78;
+
+    --border-main-color: rgba(78, 92, 120, 0.5);
 }
 
 /*-----------
@@ -82,7 +84,7 @@ body {
 }
 
 .persona:hover {
-    border-color: #f1f1f1;
+    border-color: var(--border-main-color);
 }
 
 
